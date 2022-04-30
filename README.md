@@ -1,4 +1,4 @@
 # Counterside-Discord-Rich-Presence
 Custom Made Discord RPC for Counter:Side game 
-Download the Release
-the instruction installation are inside the archive file
+#### HOW TO INSTALL
+> Download the Release and read "How to Install.txt" inside archive.
