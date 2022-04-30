@@ -1,0 +1,21 @@
+{
+  "name": "photoshop-rich-presence",
+  "version": "1.0.0",
+  "description": "Discord Rich Presence for Adobe Photoshop",
+  "main": "rpc.js",
+  "author": "Vereas",
+  "homepage": "https://github.com/vereas/photoshop-rich-presence",
+  "license": "ISC",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vereas/photoshop-rich-presence.git"
+  },
+  "dependencies": {
+    "active-win": "^3.0.0",
+    "discord-rpc": "^3.0.0-beta.4",
+    "ffi": "^2.2.0"
+  }
+}
